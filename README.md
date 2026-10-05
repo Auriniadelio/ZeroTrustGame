@@ -1,4 +1,4 @@
-# Skibidi67
+# Zero Trust - A Narrative Driven Game That Teaches the General Public of Cyber Literacy and Social Engineering Tactics
 
 [One sentence: what problem does this project solve, and for whom?]
 
