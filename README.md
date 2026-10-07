@@ -1,4 +1,4 @@
-# Zero Trust - A Narrative Driven Game That Teaches the General Public of Cyber Literacy and How to Identify Social Engineering Tactics and Its Dangers
+# Zero Trust - A Narrative Driven Game That Challenges the Player to teach the General Public of Cyber Literacy and How to Identify Social Engineering Tactics, and Its Dangers
 
 [One sentence: what problem does this project solve, and for whom?]
 
